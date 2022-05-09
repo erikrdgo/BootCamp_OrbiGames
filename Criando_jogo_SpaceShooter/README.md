@@ -4,7 +4,7 @@
 
 Projeto criado através das aulas  "Criando seu jogo no estilo Space Shooter", na [Digital Innovation One](https://digitalinnovation.one/)
 
-O jogo é baseado no joguinho do navegador Chrome, de quando se está sem internet.
+
 
 ### Os requisitos são:
 
